@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-modify",
+  "displayName": "One Dark Modify",
+  "description": "a theme modified from One Dark Pro",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Modify",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Modify-color-theme.json"
+      }
+    ]
+  }
+}
